@@ -1,6 +1,6 @@
 # README #
 
-![elasticsearch-scripts](https://img.shields.io/github/issues/spy86/elasticsearch-scripts.svg) ![elasticsearch-scripts](https://img.shields.io/github/forks/spy86/elasticsearch-scripts.svg) ![elasticsearch-scripts](https://img.shields.io/github/stars/spy86/elasticsearch-scripts.svg) ![elasticsearch-scripts](https://img.shields.io/github/license/spy86/elasticsearch-scripts.svg) ![elasticsearch-scripts](https://img.shields.io/twitter/url/https/github.com/spy86/elasticsearch-scripts.svg?style=social)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Few scripts to Elasticsearch Index Management
 
